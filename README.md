@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina Robleño Vélez</h1>
 <h3 align="center">A programming lover and FullStack junior developer from Spain</h3>
 
-- 🔭 I’m currently working on [Miranda Hotel Project](https://github.com/stars/MarinaRobleno/lists/miranda-project)
+- 🔭 I’m currently working for [INVYO](https://invyo.io/es/)
 
 - 🌱 I’m currently learning **Express, MongoDB, React, NodeJS**
 
