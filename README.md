@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina Robleño Vélez</h1>
 <h3 align="center">A programming lover and FullStack junior developer from Spain</h3>
 
-- 🔭 I’m currently working as Front End Developer at [INVYO](https://invyo.io/es/)
+- 🔭 I’m currently working as Front End & Back End Developer at [INVYO](https://invyo.io/es/)
 
 - 🌱 I’m learning and developing with tools like **Express, mySQL, React, NodeJS**
 
