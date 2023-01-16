@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marina Robleño Vélez</h1>
+<h1 align="center">Hi 👋, I'm Marina Robleño Velez</h1>
 <h3 align="center">A programming lover and FullStack junior developer from Spain</h3>
 
 - 🔭 I’m currently working as Front End & Back End Developer at [INVYO](https://invyo.io/es/)
