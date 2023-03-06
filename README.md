@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Front End & Back End Developer at [INVYO](https://invyo.io/es/)
 
-- 🌱 I’m learning and developing with tools like **Express, mySQL, React, NodeJS**
+- 🌱 I’m learning and developing with tools like **Express, mySQL, React, NodeJS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarinaRobleno?tab=repositories](https://github.com/MarinaRobleno?tab=repositories)
 
